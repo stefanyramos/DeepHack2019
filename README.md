@@ -42,6 +42,6 @@ O FAUSTOP ainda não está disponível para acesso na Internet. Para acessá-lo,
 
 ## Integrantes do Projeto
    * Caio Rodrigues
-   * Felipe Furquim
+   * Felipe Furquim 
    * Stefany Nohama
 
